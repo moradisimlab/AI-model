@@ -1,2 +1,2 @@
 # AI-model
-This is the repo for our AI model (Multiclass algorithm)
+This is the repo for our AI model (Multilabel classification algorithm)
